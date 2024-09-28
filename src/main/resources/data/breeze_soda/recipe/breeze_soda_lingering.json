@@ -1,0 +1,7 @@
+{
+  "type": "breeze_soda:soda",
+  "category": "food",
+  "ingredient": {
+    "item": "minecraft:lingering_potion"
+  }
+}
